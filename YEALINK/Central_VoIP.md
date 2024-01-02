@@ -8,8 +8,8 @@
 
 
 <!-- ## Accesorios usadas -->
-| Tools|Descripción|
-|-----------|---------------------|
+| Tools                     |Descripción|
+|---------------------------|---------------------|
 | [:gear: ISO TrixBox ](https://drive.google.com/file/d/14bn-idMmm8p7bElqQWo7Dd2uuHNtz6nt/view?usp=drive_link)  | TrixBox solución de software basada en Asterisk, una plataforma de telefonía de código abierto. |
 | [:gear: VirtualBOX ](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe)  | VirtualBox es un software de virtualización desarrollado por Oracle. Permite crear y ejecutar máquinas virtuales en un entorno de escritorio |
 
